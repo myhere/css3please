@@ -1,6 +1,6 @@
 # [CSS3 Please](http://github.zhangl.in/css3please/)
 
-## This fork just to revert the [commit](https://github.com/paulirish/css3please/commit/cdaf4ccf569a606891159a5a85e5c032c129ab09).
+## This fork just to revert the [commit](https://github.com/paulirish/css3please/commit/cdaf4ccf569a606891159a5a85e5c032c129ab09) to support ie6-8
 * Original [css3please](https://github.com/paulirish/css3please).
 * I will keep it in sync with the original repository.
 
